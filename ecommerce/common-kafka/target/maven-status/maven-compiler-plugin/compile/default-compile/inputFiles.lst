@@ -1,0 +1,5 @@
+/home/rodrwankenobi/Formacao_Kafka_Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
+/home/rodrwankenobi/Formacao_Kafka_Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/rodrwankenobi/Formacao_Kafka_Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonSerializer.java
+/home/rodrwankenobi/Formacao_Kafka_Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserializer.java
+/home/rodrwankenobi/Formacao_Kafka_Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
